@@ -1,2 +1,2 @@
 my first readme
-second readme
+Update from git hub 
